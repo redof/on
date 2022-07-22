@@ -52,18 +52,19 @@ font-family: 'Ubuntu', sans-serif;
     width: 900px;
     height: 100px;
     font-size: 60px;
-    background: #0077ff;
+    background: #B22222;
     border: 1; 
     border-radius: 140px;
-    color: white;
+    color: #FFA500
+;
     
 
 }
 
 .link a:hover input{
     transition: 1.00s;
-    background: #ffffff;
-    color: black;
+    background: ;
+   
 
 
 }
